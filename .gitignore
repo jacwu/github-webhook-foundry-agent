@@ -1,0 +1,30 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Environment files
+.env
+.env.local
+!/.env.example
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# IDE settings
+.vscode/
+*.code-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# macOS metadata
+.DS_Store

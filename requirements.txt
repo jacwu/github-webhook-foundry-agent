@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]>=0.23
+httpx>=0.24
+python-dotenv>=1.0
+pytest>=7.4
+pytest-cov>=4.1
+
+# Azure AI Foundry SDK packages for Bing-grounded agents
+azure-ai-projects>=1.0.0b1
+azure-identity>=1.15.0
+azure-ai-agents>=1.2.0b2
+
